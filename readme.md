@@ -1,4 +1,4 @@
-# browser-extension-template
+# Extensions.do - Beautiful, Simple, & Free Extensions for Code & Data Prettifying w/ URL Link Support
 
 [link-rgh]: https://github.com/sindresorhus/refined-github
 [link-ngh]: https://github.com/sindresorhus/notifier-for-github
